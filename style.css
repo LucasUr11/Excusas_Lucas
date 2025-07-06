@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.content {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 500px;
+    background-color: aliceblue;
+    margin-top: 15px;
+}
+
+#excuse {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+    background-color: #dfeefa;
+    padding: 8px 0;
+}
